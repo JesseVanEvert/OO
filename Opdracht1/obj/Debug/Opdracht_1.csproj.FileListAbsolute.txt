@@ -1,0 +1,6 @@
+C:\Users\jesse\OneDrive - Hogeschool Inholland\Jaar_1\Periode_4\OO\Opdrachten\Opdracht_1\Opdracht1\bin\Debug\Opdracht1.exe.config
+C:\Users\jesse\OneDrive - Hogeschool Inholland\Jaar_1\Periode_4\OO\Opdrachten\Opdracht_1\Opdracht1\bin\Debug\Opdracht1.exe
+C:\Users\jesse\OneDrive - Hogeschool Inholland\Jaar_1\Periode_4\OO\Opdrachten\Opdracht_1\Opdracht1\bin\Debug\Opdracht1.pdb
+C:\Users\jesse\OneDrive - Hogeschool Inholland\Jaar_1\Periode_4\OO\Opdrachten\Opdracht_1\Opdracht1\obj\Debug\Opdracht_1.csproj.CoreCompileInputs.cache
+C:\Users\jesse\OneDrive - Hogeschool Inholland\Jaar_1\Periode_4\OO\Opdrachten\Opdracht_1\Opdracht1\obj\Debug\Opdracht1.exe
+C:\Users\jesse\OneDrive - Hogeschool Inholland\Jaar_1\Periode_4\OO\Opdrachten\Opdracht_1\Opdracht1\obj\Debug\Opdracht1.pdb
