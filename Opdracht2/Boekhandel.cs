@@ -28,10 +28,10 @@ namespace Opdracht2
         }
         public void WijzigVoorraad(Boek boek)
         {
-            Console.Write("Voeg toe aan voorraad: ");
+            Console.Write("Verhoog voorraad van " + boek.Titel + ": ");
             int hoeveelheid = int.Parse(Console.ReadLine());
             boek.Aantal += hoeveelheid;
-            Console.WriteLine(boek.Aantal.ToString());
+            Console.WriteLine(boek.Print());
         }
     }
 }

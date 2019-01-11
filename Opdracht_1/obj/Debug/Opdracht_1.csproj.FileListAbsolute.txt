@@ -5,3 +5,10 @@ C:\Users\jesse\OneDrive - Hogeschool Inholland\Jaar_1\Periode_4\OO\Opdrachten\Op
 C:\Users\jesse\OneDrive - Hogeschool Inholland\Jaar_1\Periode_4\OO\Opdrachten\Opdracht_1\Opdracht_1\obj\Debug\Opdracht_1.csproj.CoreCompileInputs.cache
 C:\Users\jesse\OneDrive - Hogeschool Inholland\Jaar_1\Periode_4\OO\Opdrachten\Opdracht_1\Opdracht_1\obj\Debug\Opdracht_1.exe
 C:\Users\jesse\OneDrive - Hogeschool Inholland\Jaar_1\Periode_4\OO\Opdrachten\Opdracht_1\Opdracht_1\obj\Debug\Opdracht_1.pdb
+C:\Users\jesse\Source\Repos\OO\Opdracht_1\bin\Debug\Opdracht_1.exe.config
+C:\Users\jesse\Source\Repos\OO\Opdracht_1\bin\Debug\Opdracht_1.exe
+C:\Users\jesse\Source\Repos\OO\Opdracht_1\bin\Debug\Opdracht_1.pdb
+C:\Users\jesse\Source\Repos\OO\Opdracht_1\obj\Debug\Opdracht_1.csprojAssemblyReference.cache
+C:\Users\jesse\Source\Repos\OO\Opdracht_1\obj\Debug\Opdracht_1.csproj.CoreCompileInputs.cache
+C:\Users\jesse\Source\Repos\OO\Opdracht_1\obj\Debug\Opdracht_1.exe
+C:\Users\jesse\Source\Repos\OO\Opdracht_1\obj\Debug\Opdracht_1.pdb

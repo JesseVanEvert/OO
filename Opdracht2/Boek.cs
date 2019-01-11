@@ -8,7 +8,7 @@ namespace Opdracht2
 {
     class Boek
     {
-       protected string Titel { get; set; }
+       public string Titel { get; set; }
        public float Prijs { get; set; }
        public int Aantal { get; set; }
 
